@@ -1,0 +1,3 @@
+﻿  snake.cpp
+C:\Users\my920\Desktop\C++\snake\snake\snake.cpp(199,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  snake.vcxproj -> C:\Users\my920\Desktop\C++\snake\x64\Debug\snake.exe
